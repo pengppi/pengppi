@@ -10,17 +10,17 @@
 #   Hi there 👋, I'm Neo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C057%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C058%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-507%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 321.8 kB Used in GitHub's Storage 
+> 📦 322.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,672 Contributions in the Year 2026
+> 🏆 1,687 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,21 +31,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                434 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.91 % 
-🌆 Daytime                752 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.43 % 
-🌃 Evening                427 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.53 % 
-🌙 Night                  202 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.13 % 
+🌞 Morning                438 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.93 % 
+🌆 Daytime                753 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.15 % 
+🌃 Evening                436 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.83 % 
+🌙 Night                  203 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   308 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.97 % 
-Tuesday                  327 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.02 % 
-Wednesday                288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.87 % 
-Thursday                 286 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.76 % 
-Friday                   266 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.66 % 
-Saturday                 157 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.65 % 
-Sunday                   183 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.08 % 
+Monday                   308 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.83 % 
+Tuesday                  327 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.87 % 
+Wednesday                302 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.50 % 
+Thursday                 287 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.68 % 
+Friday                   266 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.54 % 
+Saturday                 157 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.58 % 
+Sunday                   183 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.00 % 
 ```
 
 
@@ -55,44 +55,44 @@ Sunday                   183 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 7 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.35 % 
-Python                   3 hrs 43 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.40 % 
-Other                    1 hr 39 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.15 % 
-Java                     7 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.98 % 
+Markdown                 6 hrs 52 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.72 % 
+Python                   4 hrs 5 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.00 % 
+Other                    1 hr 40 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.14 % 
+Java                     7 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.97 % 
 Text                     0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.11 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.80 % 
-PyCharm                  4 hrs 41 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.05 % 
-Pi                       2 hrs 48 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.16 % 
-IntelliJ IDEA            7 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.99 % 
+PyCharm                  5 hrs 9 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.35 % 
+Obsidian                 4 hrs 37 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.15 % 
+Pi                       2 hrs 53 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.53 % 
+IntelliJ IDEA            7 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.97 % 
 
 💻 Operating System: 
-Mac                      12 hrs 38 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      12 hrs 48 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 35 mins (36.33%)
+⏱ AI Coding Time: 4 hrs 22 mins (34.18%)
 
-✍️ 8,288 lines written by AI, 1,471 lines written by hand (84.93% AI-written)
+✍️ 7,743 lines written by AI, 724 lines written by hand (91.45% AI-written)
 
-🔤 28,651,494 Input Tokens, 777,996 Output Tokens
+🔤 25,236,365 Input Tokens, 655,965 Output Tokens
 
-💵 $268.29 Estimated AI Cost This Week
+💵 $223.50 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 32 AI Prompts
+🧠 44 AI Sessions, 31 AI Prompts
 
-Glm                      3,852 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Glm                      3,351 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 GLM                      0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 ZCode                    0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.93% of written lines came from AI
-📄 Detailed Prompter — average 524 characters per prompt
+🤖 AI-Driven — 91.45% of written lines came from AI
+📄 Detailed Prompter — average 551 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 15.85% of changed lines were hand-edited
+🚀 High AI Trust — 9.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -107,7 +107,7 @@ JavaScript               2 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 2026/09/15 23:25:38 UTC
+ Last Updated on 2026/09/16 23:33:58 UTC
 <!--END_SECTION:waka-->
 
 
